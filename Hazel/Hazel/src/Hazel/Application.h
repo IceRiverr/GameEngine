@@ -12,4 +12,7 @@ namespace Hazel
 		
 		void Run();
 	};
+
+	// 定义在客户端
+	Application* CreateApplication();
 }
