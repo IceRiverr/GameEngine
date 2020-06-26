@@ -3,3 +3,8 @@
 *.xcbkptlist
 GLFW_OpenGL/GLFW_OpenGL.xcodeproj/project.xcworkspace/xcuserdata/iceriver.xcuserdatad/UserInterfaceState.xcuserstate
 GLFW_OpenGL/GLFW_OpenGL.xcodeproj/xcuserdata/iceriver.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+
+# Hazel
+Hazel/bin/
+Hazel/bin-int/
+Hazel/.vs/
